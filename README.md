@@ -1,6 +1,6 @@
 # DAFE1200-Final_Project-H20
 
-## Final project webutvikling
+Final project webutvikling
 
 https://olebaba.github.io/final_project_h20/
 
